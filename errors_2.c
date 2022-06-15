@@ -1,8 +1,3 @@
-/*
- * File: errors_2.c
- * Auth: Bennett Dixon
- *       Brennan D Baraban
- */
 
 #include "monty.h"
 
